@@ -11,7 +11,7 @@ Use the prefix `game` with one or multiple search terms, use an optional {consol
 Simply invite the Bot to your discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=824312967586906193&permissions=268815424&scope=bot) (you must have the Manage Server permission) and enter the commands into a channel the Bot has access to.
 
 
-#### Commands
+#### Command
 > **`game {console} {search terms} {results page no.}`**
 
 
