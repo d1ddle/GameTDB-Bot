@@ -11,26 +11,26 @@ Use the prefix `game` with one or multiple search terms, use an optional {consol
 Simply invite the Bot to your discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=824312967586906193&permissions=268815424&scope=bot) (you must have the Manage Server permission) and enter the commands into a channel the Bot has access to.
 
 
-#### Command
+### Command
 > **`game {console} {search terms} {results page no.}`**
 
 
-#### Minimal Use
+### Minimal Use
 > **`game {console} {search term}`**
 
 
-#### Terms
-## Console Terms
+## Terms
+#### Console Terms
 > **`wii`, `ps3`, `ds`, `switch`, `3ds`, `wiiu`**
 > If none are specified, the bot searches all, in the order above.
 > Results page number still works when searching through all consoles.
 
-## Search Terms
+#### Search Terms
 > Any Game Title or Game ID
 >> **`Mario`**, **`Mario_Kart_Wii`**, **`RMCE01`**
 > Multiple Search Terms must be separated by Underscores _
 
-## Results Page No.
+#### Results Page No.
 > As searches return more than 1 result, results are split into pages.
 > There are 10 results per page.
 > The results page number specifies which 10 results to send over.
@@ -38,10 +38,10 @@ Simply invite the Bot to your discord server using [this link](https://discord.c
 >> **`Is an integer.`**
 
 
-#### Help
+### Help
 > **`gtdb`** for help!
 
-#### Note: Not an official GameTDB or Khinsider Discord Bot. 
+### Note: Not an official GameTDB or Khinsider Discord Bot. 
 
 
 
