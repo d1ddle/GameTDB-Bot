@@ -7,7 +7,7 @@ Use the prefix `game` with one or multiple search terms, use an optional {consol
 
 ![# Screenshot](https://github.com/d1ddle/GameTDB-Bot/blob/main/img/gtdb%20-screenshot.png?raw=true)
 
-### How do I use the Bot?
+## How do I use the Bot?
 Simply invite the Bot to your discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=824312967586906193&permissions=268815424&scope=bot) (you must have the Manage Server permission) and enter the commands into a channel the Bot has access to.
 
 
