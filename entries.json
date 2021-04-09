@@ -1,0 +1,52 @@
+{
+	"databases": [
+		{
+      "id": "wii",
+		  "file": "wiitdb.txt",
+		  "file2": "wiitdb2.txt",
+      "url": "https://www.gametdb.com/wiitdb.txt?LANG=EN"
+    },
+		{
+      "id": "ps3",
+      "file": "ps3tdb.txt",
+      "file2": "ps3tdb2.txt",
+      "url": "https://www.gametdb.com/ps3tdb.txt?LANG=EN"
+    },
+    {
+      "id": "ds",
+      "file": "dstdb.txt",
+      "file2": "dstdb2.txt",
+      "url": "https://www.gametdb.com/dstdb.txt?LANG=EN"
+    },
+    {
+      "id": "switch",
+      "file": "switchtdb.txt",
+      "file2": "switchdb2.txt",
+      "url": "https://www.gametdb.com/switchtdb.txt?LANG=EN"
+    },
+    {
+      "id": "3ds",
+      "file": "3dstdb.txt",
+      "file2": "3dstdb2.txt",
+      "url": "https://www.gametdb.com/3dstdb.txt?LANG=EN"
+    },
+    {
+      "id": "wiiu",
+      "file": "wiiutdb.txt",
+      "file2": "wiiutdb2.txt",
+      "url": "https://www.gametdb.com/wiiutdb.txt?LANG=EN"
+    },
+    {
+      "id": "all",
+      "file": "alltdb.txt",
+      "file2": "alltdb2.txt",
+      "url": ""
+    },
+    {
+      "id": "index",
+      "file": "index.txt",
+      "file2": "index2.txt",
+      "url": "https://www.gametdb.com/site-map_for-Gooogle.txt"
+    }
+  ]
+}
