@@ -44,9 +44,8 @@ Simply invite the Bot to your discord server using [this link](https://discord.c
 ### Note: Not an official GameTDB or Khinsider Discord Bot. 
 
 
+## Invite link
+> https://discord.com/api/oauth2/authorize?client_id=824312967586906193&permissions=268815424&scope=bot
 
-#https://discord.com/api/oauth2/authorize?client_id=824312967586906193&permissions=268815424&scope=bot
-
-#https://i.imgur.com/e240cFM.png
-
-#https://discord.gg/BuhtqP9
+## Support Server
+> https://discord.gg/BuhtqP9
