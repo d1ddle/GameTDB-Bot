@@ -20,17 +20,17 @@ Simply invite the Bot to your discord server using [this link](https://discord.c
 
 
 ## Terms
-#### Console Terms
+#### {console}
 > **`wii`, `ps3`, `ds`, `switch`, `3ds`, `wiiu`**
 > If none are specified, the bot searches all, in the order above.
 > Results page number still works when searching through all consoles.
 
-#### Search Terms
+#### {search_terms}
 > Any Game Title or Game ID
 >> **`Mario`**, **`Mario_Kart_Wii`**, **`RMCE01`**
 > Multiple Search Terms must be separated by Underscores _
 
-#### Results Page No.
+#### {results page no.}
 > As searches return more than 1 result, results are split into pages.
 > There are 10 results per page.
 > The results page number specifies which 10 results to send over.
