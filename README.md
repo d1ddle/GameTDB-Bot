@@ -16,7 +16,7 @@ Simply invite the Bot to your discord server using [this link](https://discord.c
 
 
 ### Minimal Use
-> **`game {search term}`**
+> **`game {search terms}`**
 
 
 ## Terms
