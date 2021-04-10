@@ -53,5 +53,6 @@ Simply invite the Bot to your discord server using [this link](https://discord.c
 ## So, where do I host this bot?
 I host my bot on [replit.com](https://replit.com/@d1ddle/GamesTDB-Bot#main.py) at no cost to me at all. For FREE. Seriously -
 Using the Python Flask module, I can set up a temporary website hosted by the repl, and a free service called [UptimeRobot](https://uptimerobot.com/) pings the website, keeping the repl awake. This is needed because replit.com shuts down repls that have been inactive for an hour. 
+The website for my bot is as follows: https://GamesTDB-Bot.d1ddle.repl.co
 
 ### You can view this script above - it's the keep_alive.py
